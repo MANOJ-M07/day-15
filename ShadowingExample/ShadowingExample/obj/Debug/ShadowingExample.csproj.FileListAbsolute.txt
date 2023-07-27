@@ -1,0 +1,8 @@
+D:\simplilearn\day-15\ShadowingExample\ShadowingExample\bin\Debug\ShadowingExample.exe.config
+D:\simplilearn\day-15\ShadowingExample\ShadowingExample\bin\Debug\ShadowingExample.exe
+D:\simplilearn\day-15\ShadowingExample\ShadowingExample\bin\Debug\ShadowingExample.pdb
+D:\simplilearn\day-15\ShadowingExample\ShadowingExample\obj\Debug\ShadowingExample.csproj.AssemblyReference.cache
+D:\simplilearn\day-15\ShadowingExample\ShadowingExample\obj\Debug\ShadowingExample.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-15\ShadowingExample\ShadowingExample\obj\Debug\ShadowingExample.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-15\ShadowingExample\ShadowingExample\obj\Debug\ShadowingExample.exe
+D:\simplilearn\day-15\ShadowingExample\ShadowingExample\obj\Debug\ShadowingExample.pdb

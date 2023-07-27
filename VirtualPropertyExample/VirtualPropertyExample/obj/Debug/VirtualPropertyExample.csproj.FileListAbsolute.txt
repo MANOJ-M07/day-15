@@ -1,0 +1,8 @@
+D:\simplilearn\day-15\VirtualPropertyExample\VirtualPropertyExample\bin\Debug\VirtualPropertyExample.exe.config
+D:\simplilearn\day-15\VirtualPropertyExample\VirtualPropertyExample\bin\Debug\VirtualPropertyExample.exe
+D:\simplilearn\day-15\VirtualPropertyExample\VirtualPropertyExample\bin\Debug\VirtualPropertyExample.pdb
+D:\simplilearn\day-15\VirtualPropertyExample\VirtualPropertyExample\obj\Debug\VirtualPropertyExample.csproj.AssemblyReference.cache
+D:\simplilearn\day-15\VirtualPropertyExample\VirtualPropertyExample\obj\Debug\VirtualPropertyExample.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-15\VirtualPropertyExample\VirtualPropertyExample\obj\Debug\VirtualPropertyExample.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-15\VirtualPropertyExample\VirtualPropertyExample\obj\Debug\VirtualPropertyExample.exe
+D:\simplilearn\day-15\VirtualPropertyExample\VirtualPropertyExample\obj\Debug\VirtualPropertyExample.pdb
